@@ -16,7 +16,7 @@
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=Self&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=Self2&theme=nightowl)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazebot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=node_modules&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazedev&theme=nightowl)
 
 
