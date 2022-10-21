@@ -14,6 +14,7 @@
 <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=radical&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=nightowl)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazedev&theme=nightowl)
 
