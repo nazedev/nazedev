@@ -27,10 +27,4 @@
 </details>
 
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-![Metrics](https://metrics.lecoq.io/nazedev?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
-
-</details> 
-
 <audio autoplay="true" src="https://c.top4top.io/m_2169adw7n0.mp3"></audio>
