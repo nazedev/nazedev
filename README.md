@@ -11,7 +11,7 @@
 ### Current activities 
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
-- 🎯 Play Genshin Impact With Me? ID 827837081
+- 🎯 Play Genshin Impact With Me? ID Kosong 
 - 📧 My Business Email Dyvilexz35@gmail.com
 - 💰 Donate For Me [Saweria]() 
 
