@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://youtube.com/c/Nazedev">
+<a href="https://www.youtube.com/@Fiks_Lex_Zaa">
     <img
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Nazedev;Welcome+to+my+GitHub+😊"
             alt="Typing SVG"
@@ -12,7 +12,7 @@
 - 👨‍💻 I am Not a Programmer
 - 🌱 I am currently learning JavaScript
 - 🎯 Play Genshin Impact With Me? ID 827837081
-- 📧 My Business Email nazedev@gmail.com
+- 📧 My Business Email Dyvilexz35@gmail.com
 - 💰 Donate For Me [Saweria](https://saweria.co/naze) 
 
 
