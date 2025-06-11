@@ -27,24 +27,24 @@
   <a href="https://youtube.com/c/Nazedev"><img src="https://img.shields.io/badge/YouTube-Naze -ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/@Nazedev" /><br>
   <a href="https://github.com/nazedev"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
   <a href="https://youtube.com/channel/UCl77jQD3nSFp__z1oRxm-fA"><img src="https://img.shields.io/youtube/channel/subscribers/UCl77jQD3nSFp__z1oRxm-fA?style=social" /> <br>
-  <a name=nazedev&label=VIEWS&style=flat-square&color=orange" />
+  <a name=dyvilleexz&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://github-readme-stats.vercel.app/api?username=Dyvilexz&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://streak-stats.demolab.com/?user=Dyvilexz&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyvilleexz&theme=chartreuse-dark&layout=compact"></a></p> 
 
 ### Repo Stats 🔭
-<p align=""><a href="https://github.com/nazedev/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazedev&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyvilexz&repo=villexz-md&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=villexz&theme=chartreuse-dark"></a></p>
+<p align=""><a href="https://github.com/Dyvillexz/Villexz.git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dyvilexz&repo=Dyvilleexz&theme=chartreuse-dark"></a></p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=Dyvillexz"></a></p>
 
 </details>
 <details>
