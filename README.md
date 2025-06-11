@@ -13,7 +13,7 @@
 - 🌱 I am currently learning JavaScript
 - 🎯 Play Genshin Impact With Me? ID 827837081
 - 📧 My Business Email Dyvilexz35@gmail.com
-- 💰 Donate For Me [Saweria](https://saweria.co/naze) 
+- 💰 Donate For Me [Saweria]() 
 
 
 ### Connect with me ☎️
