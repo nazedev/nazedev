@@ -1,11 +1,13 @@
 <div align="center">
-<a href="https://youtube.com/c/Nazedev">
-    <img
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Nazedev;Welcome+to+my+GitHub+😊"
-            alt="Typing SVG"
-        />
+    <a href="https://youtube.com/c/Nazedev">
+        <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Nazedev;Welcome+to+my+GitHub+😊" alt="Typing SVG" />
     </a>
-</p>
+</div>
+
+<div align="center">
+    <a href="https://naze.biz.id">
+        <img src="https://img.shields.io/badge/Naze%20Api-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge" />
+    </a>
 </div>
 
 ### Current activities 
@@ -18,7 +20,6 @@
 
 ### Connect with me ☎️
 <h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{nazedev}/count.svg" alt="nazedev :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@nazedev-github-readme?theme=rule34" /></p>
 <p align="center">
   <a href="https://instagram.com/naze_dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -35,21 +36,3 @@
 <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-<p align=""><a href="https://github.com/nazedev/naze-md"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze-md&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/naze"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=naze&theme=chartreuse-dark"></a></p>
-<p align=""><a href="https://github.com/nazedev/nazedev"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nazedev&repo=nazedev&theme=chartreuse-dark"></a></p>
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-profile-trophy.vercel.app/?username=nazedev"></a></p>
-
-</details>
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-<p align="center"><a href="https://github.com/nazedev"><img src="https://metrics.lecoq.io/nazedev?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta"></a></p>
-
-</details> 
