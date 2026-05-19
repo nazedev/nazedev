@@ -33,6 +33,6 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats-tan-two-27.vercel.app/api?username=nazedev&show_icons=true&theme=chartreuse-dark"></a></p>
 <p align="center"><a href="https://github.com/nazedev"><img src="https://streak-stats.demolab.com/?user=nasedev&theme=chartreuse-dark"></a></p>
-<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats-tan-two-27.vercel.app/api/top-langs/?username=nazedev&theme=chartreuse-dark&layout=compact"></a></p> 
